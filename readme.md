@@ -1,12 +1,12 @@
-#Android_PS4_USBAutoMount_9.00
+# Android_PS4_USBAutoMount_9.00
 
-##Requirements
+### Requirements
 1 - Device rooted.
 2 - PS4 with 9.00 Firmware or lower.
-3 - PS4 and android device connect to the same network.
-4 - Setup ps4 conection with Al-Azif DNS and disable updated payload (it isn't mandatory but highly recommended)
+3 - PS4 and Android device connect to the same network.
+4 - Setup ps4 conection with Al-Azif DNS and disable updated payload (its'n mandatory but highly recommended)
 
-##Steps 9.00:
+### Steps 9.00:
 1 - Open apk in your rooted android device.
 2 - Allow permision of write on internal storage.
 3 - Connect your android device to some usb PS4 port.
@@ -15,7 +15,7 @@
 6 - Use the host normally.
 7 - When you click over any payload it will started to run, and you should follow the instruccion.
 
-##Steps 7.55 and lower:
+### Steps 7.55 and lower:
 1 - Open apk in your rooted android device.
 2 - Allow permision of write on internal storage.
 3 - Press 'Start!' button and url (ip:port) will show.
