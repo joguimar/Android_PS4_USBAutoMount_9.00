@@ -22,3 +22,6 @@
 4. In browser of PS4 go to the url (ip:port) that show in the last step.
 5. Use the host normally.
 6.  When you click over any payload it will started to run, and you should follow the instruccion. 
+
+
+The project is under development. USE IR YOUT OWN RISK and use it only if you know what you are doing.
