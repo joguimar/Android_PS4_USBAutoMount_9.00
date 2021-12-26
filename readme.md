@@ -8,7 +8,7 @@
 
 ### Steps 9.00:
 1. Open apk in your rooted android device.
-2. Allow permision of write on internal storage.
+2. Allow write permision on internal storage.
 3. Connect your android device to some usb PS4 port.
 4. Press 'Start!' button and url (ip:port) will show.
 5. In browser of PS4 go to the url (ip:port) that show in the last step.
@@ -17,7 +17,7 @@
 
 ### Steps 7.55 and lower:
 1. Open apk in your rooted android device.
-2. Allow permision of write on internal storage.
+2. Allow write permision on internal storage.
 3. Press 'Start!' button and url (ip:port) will show.
 4. In browser of PS4 go to the url (ip:port) that show in the last step.
 5. Use the host normally.
